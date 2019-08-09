@@ -1,0 +1,25 @@
+{
+  "name": "styled-sanitize.css",
+  "version": "1.0.0",
+  "description": "Sanitize.css for styled-components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css",
+    "sanitize",
+    "sanitize.css",
+    "reset",
+    "styled-components"
+  ],
+  "author": {
+    "email": "tylerwolff@gmail.com",
+    "name": "Tyler Wolff",
+    "url": "http://tylerwolff.com"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "styled-components": ">=4.3.2"
+  }
+}
