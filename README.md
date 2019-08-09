@@ -7,7 +7,13 @@
 ## Installation:
 
 ```
-npm i styled-sanitize.css
+npm install styled-sanitize.css
+```
+
+or
+
+```
+yarn add styled-sanitize.css
 ```
 
 ## Usage:
