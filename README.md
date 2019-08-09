@@ -6,7 +6,9 @@
 
 ## Installation:
 
-`npm i styled-sanitize.css`
+```
+npm i styled-sanitize.css
+```
 
 ## Usage:
 
@@ -31,7 +33,7 @@ import { sanitize } from 'styled-sanitize.css';
 
 const GlobalStyle = createGlobalStyle`
   ${sanitize}
-  /* more global styles */
+  /* more styles */
 `
 
 const App = () => (
